@@ -3,7 +3,7 @@
 Interactive Tableau dashboard exploring **U.S. health outcomes, healthcare access, social determinants of health, and state-level disparities** using public health indicators and demographic metrics.
 
 🔗 **Live Tableau Dashboard:**  
-https://public.tableau.com/views/USHealthOutcomesSocialDeterminantsAnalysis/Dashboard4
+https://public.tableau.com/views/USHealthOutcomesSocialDeterminantsAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
