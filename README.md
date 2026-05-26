@@ -96,18 +96,6 @@ The dashboard emphasizes that health outcomes are shaped by broader social syste
 
 ---
 
-## Dataset
-
-Dataset source:
-
-**Tableau Sample Data Library**
-
-https://public.tableau.com/app/learn/sample-data
-
-The project uses public-health related sample datasets provided through Tableau's learning resources.
-
----
-
 ## Tools & Technologies
 
 - Tableau Public
