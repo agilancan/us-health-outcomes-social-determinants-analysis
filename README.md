@@ -1,5 +1,5 @@
 # U.S. Health Outcomes & Social Determinants Analysis
-![Dashboard Preview](assets/Project 2.png)
+![Dashboard Preview](assets/project2.png)
 Interactive Tableau dashboard exploring **U.S. health outcomes, healthcare access, social determinants of health, and state-level disparities** using public health indicators and demographic metrics.
 
 🔗 **Live Tableau Dashboard:**  
